@@ -1,107 +1,113 @@
-![Uploading linkedin_banner_hd.png…]()
-
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/xxxxxxxx..." width="100%">
+  <img src="https://drive.google.com/thumbnail?id=1V6fxBYIhOwmGrDXIVLTNjXaEmyvR0nwx&sz=w1600" alt="Shoaib Hossain" width="100%">
 </p>
 
-<h1 align="center">Hi, I'm Shoaib Hossain 👋</h1>
+<h1 align="center">✨ Hi, I'm Shoaib Hossain ✨</h1>
 
 <p align="center">
-  <b>CSE Graduate · AI/ML Researcher · Explainable AI Enthusiast</b><br>
-  📍 Dhaka, Bangladesh
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=00D4FF&center=true&vCenter=true&width=650&lines=AI+%2F+ML+Researcher;Explainable+AI+Enthusiast;XGBoost+%7C+SHAP+%7C+LIME;Building+applied%2C+explainable+AI+systems" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/📍_Dhaka,_Bangladesh-0d1117?style=for-the-badge&labelColor=0d1117&color=00d4ff">
+  <img src="https://img.shields.io/badge/🎓_DIU_CSE_'25-0d1117?style=for-the-badge&labelColor=0d1117&color=a855f7">
+  <img src="https://img.shields.io/badge/💼_Open_to_ML_Roles-0d1117?style=for-the-badge&labelColor=0d1117&color=22c55e">
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/shoaib-hossain-b16410305"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:shoaibhossain5949@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:shoaibhossain5949@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/shoaibhossain5949"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🧠 About Me
 
-I'm a Computer Science and Engineering graduate from **Daffodil International University** (Dec 2025, CGPA 3.41/4.00) focused on **Artificial Intelligence and Machine Learning**.
+> *"Making machine learning models not just accurate, but understandable."*
 
-- 🔬 Research focus: **Explainable AI** (XGBoost, SHAP, LIME) applied to socio-economic and healthcare problems in Bangladesh
-- 📝 Two manuscripts currently under review
+I'm a **Computer Science and Engineering graduate** from **Daffodil International University** (Dec 2025, CGPA 3.41/4.00) with hands-on research experience in **Artificial Intelligence and Machine Learning**.
+
+- 🔬 Research focus: **Explainable AI** for socio-economic and healthcare problems in Bangladesh
+- 📝 **Two manuscripts** currently under review
 - 🏆 **1st Runner-Up**, ModalX-AI Challenge 2026
-- 🎯 Seeking a **Machine Learning Engineer** role to build applied, explainable AI systems
+- 🎯 Looking for a **Machine Learning Engineer** role to build applied, explainable AI systems
 
 ---
 
 ## 🛠 Tech Stack
 
-**Languages**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,cpp,java,js,php,mysql,html,css,nodejs,bash&perline=10" />
+</p>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,git,vscode,linux,arduino&perline=6" />
+</p>
 
-**ML & Deep Learning**
+<p align="center">
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white">
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
+  <img src="https://img.shields.io/badge/XGBoost-189FDD?style=for-the-badge">
+  <img src="https://img.shields.io/badge/SHAP-FF0051?style=for-the-badge">
+  <img src="https://img.shields.io/badge/LIME-4CAF50?style=for-the-badge">
+</p>
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-189FDD?style=flat)
-
-**Explainable AI:** SHAP · LIME
-
-**Data Analysis & Visualization**
-
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Seaborn-4C8CBF?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white">
+</p>
 
 ---
 
 ## 🔬 Research
 
-| Title | Status |
-|-------|--------|
-| Identifying Root Causes of Drug Addiction Using Explainable Artificial Intelligence | Under review |
-| Early Brain Stroke Prediction Using Optimized Machine Learning and Ensemble Techniques | Under review |
+| 📄 Title | 📌 Status |
+|:--|:--:|
+| Identifying Root Causes of Drug Addiction Using Explainable Artificial Intelligence | 🟡 Under review |
+| Early Brain Stroke Prediction Using Optimized Machine Learning and Ensemble Techniques | 🟡 Under review |
 
 ---
 
 ## 🚀 Featured Projects
 
-- **🎤 AI-Powered Multi-Modal Presentation Assessment System**: Offline AI system that analyzes presentation videos using speech, sentiment, and body movement, giving explainable feedback with no external APIs. *(1st Runner-Up, ModalX-AI Challenge 2026)*
-- **🏠 To-Let Finder**: Rental management platform with property listings, tenant-landlord communication, and rental history. *(HTML, CSS, JavaScript, PHP, MySQL)*
-- **🩹 First Aid Guide App**: Mobile app with emergency first aid instructions and health guidance.
-- **💡 Smart Home Automation (IoT)**: Smart lights, fan control, gas/smoke detection, water level monitoring and smart door lock using Arduino and Blynk.
-- **⚙️ Compiler Design**: Compiler built with Flex & Bison, with syntax error detection and control flow support.
+| Project | What it does | Tech |
+|:--|:--|:--|
+| 🎤 **Multi-Modal Presentation Assessment** | Offline AI that analyzes speech, sentiment and body movement in presentation videos and gives explainable feedback | `Python` `ML` `No external APIs` |
+| 🏠 **To-Let Finder** | Rental platform with listings, tenant-landlord communication and rental history | `HTML` `CSS` `JS` `PHP` `MySQL` |
+| 🩹 **First Aid Guide App** | Mobile app with emergency first aid instructions and health guidance | `Android Studio` |
+| 💡 **Smart Home Automation** | Smart lights, fan control, gas/smoke detection, water level monitor, smart door lock | `Arduino` `IoT` `Blynk` |
+| ⚙️ **Compiler Design** | Compiler with multiple data types, syntax error detection and control flow | `C/C++` `Flex` `Bison` |
 
 ---
 
-## 🏅 Highlights
+## 🏅 Achievements
 
-- 🥈 1st Runner-Up, ModalX-AI Challenge 2026
-- 🧩 Finalist, Unlock the Algorithm Programming Contest (Fall 2023)
-- 🧩 Finalist, TAKE-OFF Programming Contest (CSE Fest 2022)
-- 📜 Neural Networks and Deep Learning (deeplearning.ai) · Feature Engineering (Kaggle) · Cybersecurity Fundamentals (IBM)
+- 🥈 **1st Runner-Up**, ModalX-AI Challenge 2026 (2nd among 25 teams)
+- 🧩 **Finalist**, Unlock the Algorithm Programming Contest (Fall 2023)
+- 🧩 **Finalist**, TAKE-OFF Programming Contest, CSE Fest 2022
+- 📜 Neural Networks and Deep Learning · Feature Engineering · Cybersecurity Fundamentals
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=shoaibhossain5949&show_icons=true&theme=radical&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoaibhossain5949&layout=compact&theme=radical&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=shoaibhossain5949&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoaibhossain5949&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=shoaibhossain5949&theme=tokyonight&hide_border=true&background=0d1117" />
 </p>
 
 ---
 
-<p align="center">⭐ Thanks for visiting! Feel free to reach out for research or ML collaboration.</p>
+<p align="center">💬 Open to research collaboration and ML opportunities. Let's connect!</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" />
