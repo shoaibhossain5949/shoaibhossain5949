@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="Shoaib Hossain" width="100%">
+  <img src="https://raw.githubusercontent.com/shoaibhossain5949/shoaibhossain5949/main/banner.png" alt="Shoaib Hossain" width="100%">
 </p>
 
 <h1 align="center">Hi, I'm Shoaib Hossain 👋</h1>
